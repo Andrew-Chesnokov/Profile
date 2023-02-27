@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8115c3-f43a-40b9-a4c9-f1b1aae025c0" name="Changes" comment="">
+    <list default="true" id="2b8115c3-f43a-40b9-a4c9-f1b1aae025c0" name="Changes" comment="b2certificate">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Certificates/QATestLab_certificate(EN).pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -31,18 +34,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "F:/JavaProjects/Profile/ExampleOfTestPlan"
+    "last_opened_file_path": "F:/JavaProjects/Profile/Certificates"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JavaProjects\Profile\Certificates" />
       <recent name="F:\JavaProjects\Profile\ExampleOfTestPlan" />
       <recent name="F:\JavaProjects\Profile" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JavaProjects\Profile" />
       <recent name="F:\JavaProjects\Profile\Certificates" />
       <recent name="F:\JavaProjects\Profile\ExamplesOfChecklists" />
-      <recent name="F:\JavaProjects\Profile" />
       <recent name="F:\JavaProjects\Profile\src\test\java" />
       <recent name="F:\JavaProjects\Profile\src\test\resources" />
     </key>
@@ -56,6 +60,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676470923354</updated>
     </task>
+    <task id="LOCAL-00001" summary="b2certificate">
+      <created>1677417904300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677417904300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="b2certificate" />
+    <option name="LAST_COMMIT_MESSAGE" value="b2certificate" />
   </component>
 </project>
