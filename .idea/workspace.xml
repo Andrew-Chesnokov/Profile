@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8115c3-f43a-40b9-a4c9-f1b1aae025c0" name="Changes" comment="b2certificate">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificates/QATestLab_certificate(EN).pdf" beforeDir="false" />
-    </list>
+    <list default="true" id="2b8115c3-f43a-40b9-a4c9-f1b1aae025c0" name="Changes" comment="AQA_GFL_certificate" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +64,19 @@
       <option name="project" value="LOCAL" />
       <updated>1677417904300</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="AQA_GFL_certificate">
+      <created>1677500454467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677500454467</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="b2certificate" />
-    <option name="LAST_COMMIT_MESSAGE" value="b2certificate" />
+    <MESSAGE value="AQA_GFL_certificate" />
+    <option name="LAST_COMMIT_MESSAGE" value="AQA_GFL_certificate" />
   </component>
 </project>
